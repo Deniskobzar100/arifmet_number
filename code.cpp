@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>         //Программа была написано специально для freelancehunt.com!
 
 int main() {
     const int max_numbers = 1000;
